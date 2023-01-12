@@ -6,11 +6,13 @@
 
 <hr>
 
-🔭 I’m currently working on [Copa Relámpago](https://github.com/Maximiliano-Pereyra/copa-relampago)
-🖥️ My last work was: [RTFC - MindHub Bootcamp Final Challenge](https://github.com/nehuen-aumedes-diez/Mindhub-Challengue-RFTC-Front)
-🌱 I’m currently learning Cybersecurity
-📫 How to reach me: beluchis1991@gmail.com
-
+<div>
+-🔭 I’m currently working on [Copa Relámpago](https://github.com/Maximiliano-Pereyra/copa-relampago)
+-🖥️ My last work was: [RTFC - MindHub Bootcamp Final Challenge](https://github.com/nehuen-aumedes-diez/Mindhub-Challengue-RFTC-Front)
+-🌱 I’m currently learning Cybersecurity
+-📫 How to reach me: beluchis1991@gmail.com
+<div>
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/maría-belén-alvarez-612a25234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría-belén-alvarez" height="30" width="40" /></a>
