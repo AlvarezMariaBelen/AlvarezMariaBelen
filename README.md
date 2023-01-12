@@ -7,6 +7,7 @@
 <hr>
 
  <div align=left>
+   
 - 🔭 I’m currently working on [Copa Relámpago](https://github.com/Maximiliano-Pereyra/copa-relampago)
    
 - 🖥️ My last work was: [RTFC - MindHub Bootcamp Final Challenge](https://github.com/nehuen-aumedes-diez/Mindhub-Challengue-RFTC-Front)
