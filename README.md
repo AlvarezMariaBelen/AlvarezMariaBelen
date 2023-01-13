@@ -1,5 +1,5 @@
 <div id='header' align='center'>
-  <img src='https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif' width=35% height=200px></img>
+  <img src='https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif' width=40% height=200px></img>
   <h1 align='center'> Hi! 🙋🏻‍♀️, I'm Belu</h1>
   <h3 align='center'>A passionate Full Stack programmer from Argentina</h3>
 <div>
