@@ -12,7 +12,7 @@
    
 - 🖥️ My last work was: [RTFC - MindHub Bootcamp Final Challenge](https://github.com/nehuen-aumedes-diez/Mindhub-Challengue-RFTC-Front)
    
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning Cybersecurity and TypeScript.
    
 - 📫 How to reach me: beluchis1991@gmail.com
   </div>
